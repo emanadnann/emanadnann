@@ -1,6 +1,5 @@
 # Hi there, I'm Eman Adnan 👋
 
-<img src="https://via.placeholder.com/150" alt="Profile Picture" width="150" style="border-radius:50%;">
 
 I'm a **Computer Science student** based in the UK 🇬🇧, passionate about **coding, problem-solving, and software development**. I enjoy learning new technologies, building small projects, and improving my skills every day.  
 
@@ -38,8 +37,3 @@ I'm a **Computer Science student** based in the UK 🇬🇧, passionate about **
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
-
-## 👀 Stats
-
-![Eman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
